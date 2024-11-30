@@ -1,0 +1,49 @@
+<div class="content-logo">
+                <div class="row">
+                    <div class="cols-1">
+                        <img src="logo.png">
+                    </div>
+                    <div class="cols-2">
+                        <img src="Anarkali1.webp">
+                    </div>
+
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+.cols-1 {
+    border-radius: solid;
+    position: absolute;
+    top: 140px;
+    left: 50px;
+
+
+}
+.cols-1 img{
+    border-radius: 50%;
+    width: 20%;
+
+}
+.cols-2{
+    border-radius: solid;
+    position: absolute;
+    top: 140px;
+    left: 140px;
+
+
+}
+.cols-2 img{
+    border-radius: 30%;
+    width: 10%;
+
+}
